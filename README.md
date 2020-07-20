@@ -6,8 +6,6 @@ EXAMPLE: <br>
 3.- You must to have installed waves keeper extention in your browser <br>
 4.- Use your waves exchanges credentials to login on it<br>
 
-# uItem 
-
 ## Available Scripts
 
 ```json
