@@ -1,3 +1,11 @@
+# Login System Prototype To Implement on Sucre.IO
+
+EXAMPLE:
+1.- https://uitem.praexor.vercel.app/
+2.- To login you must to have an account in waves exchange https://waves.exchange/
+3.- You must to have installed waves keeper extention in your browser 
+4.- Use your waves exchanges credentials to login on it
+
 # uItem 
 
 ## Available Scripts
